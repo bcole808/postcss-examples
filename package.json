@@ -1,0 +1,12 @@
+{
+  "name": "postcss-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "autoprefixer": "^6.2.0",
+    "cssnano": "^3.9.1",
+    "grunt": "^1.0.1",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sass": "^1.1.0"
+  },
+  "private": true
+}
